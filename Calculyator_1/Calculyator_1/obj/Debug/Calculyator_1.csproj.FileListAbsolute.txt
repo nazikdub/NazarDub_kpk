@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Calculyator_1\Calculyator_1\bin\Debug\Calculyator_1.exe.config
+C:\Users\user\source\repos\Calculyator_1\Calculyator_1\bin\Debug\Calculyator_1.exe
+C:\Users\user\source\repos\Calculyator_1\Calculyator_1\bin\Debug\Calculyator_1.pdb
+C:\Users\user\source\repos\Calculyator_1\Calculyator_1\obj\Debug\Calculyator_1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Calculyator_1\Calculyator_1\obj\Debug\Calculyator_1.Properties.Resources.resources
+C:\Users\user\source\repos\Calculyator_1\Calculyator_1\obj\Debug\Calculyator_1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Calculyator_1\Calculyator_1\obj\Debug\Calculyator_1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Calculyator_1\Calculyator_1\obj\Debug\Calculyator_1.exe
+C:\Users\user\source\repos\Calculyator_1\Calculyator_1\obj\Debug\Calculyator_1.pdb
+C:\Users\user\source\repos\Calculyator_1\Calculyator_1\obj\Debug\Calculyator_1.Form1.resources
